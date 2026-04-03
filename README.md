@@ -98,10 +98,10 @@ Memory layer that thinks like a human — remembers what matters, forgets what d
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auriti&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=auriti&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=auriti&theme=github_dark" />
 <img height="180em" src="https://streak-stats.demolab.com?user=auriti&theme=github-dark-blue&hide_border=true&ring=0ea5e9&fire=a855f7&currStreakLabel=0ea5e9" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auriti&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&langs_count=8" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=auriti&theme=github_dark" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=auriti&theme=github_dark&utcOffset=2" />
 
 </div>
