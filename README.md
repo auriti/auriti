@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0f172a,50:0ea5e9,100:a855f7&text=Juan%20Camilo%20Auriti&fontColor=ffffff&fontSize=34&fontAlignY=42&stroke=0ea5e9&strokeWidth=1&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Builder.+Not+a+talker.;Making+AI+search+engines+find+your+website;Memory+systems+that+forget+like+humans+do)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Making+AI+search+engines+find+your+website;Open-source+infrastructure+for+the+AI+era;Based+in+Italy,+shipping+from+Auriti+Labs)](https://git.io/typing-svg)
 
 <a href="https://github.com/Auriti-Labs"><img src="https://img.shields.io/badge/Auriti%20Labs-Organization-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://auritidesign.it"><img src="https://img.shields.io/badge/auritidesign.it-Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://geoready.dev"><img src="https://img.shields.io/badge/geoready.dev-GEO%20Optimizer-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://x.com/JuanAuriti"><img src="https://img.shields.io/badge/@JuanAuriti-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:juancamilo.auriti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -13,9 +13,7 @@
 
 <br/>
 
-I make tools for developers and AI systems — the kind of stuff I wish existed before I had to build it myself. Based in Italy, shipping from [**Auriti Labs**](https://github.com/Auriti-Labs).
-
-3,800+ contributions this year. Not because I'm counting — because there's always something to fix.
+I build tools for developers and AI systems — the kind of stuff I wish existed before I had to build it myself. Based in Italy, shipping from [**Auriti Labs**](https://github.com/Auriti-Labs).
 
 ---
 
@@ -23,48 +21,61 @@ I make tools for developers and AI systems — the kind of stuff I wish existed 
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3><a href="https://github.com/Auriti-Labs/geo-optimizer-skill">GEO Optimizer</a></h3>
 
-Making websites visible to AI search engines. Audit, optimize, measure — based on Princeton KDD 2024 research.
+Open-source AEO/GEO toolkit — audit, optimize, and track whether ChatGPT, Perplexity, Gemini & Google AI Overviews cite your site. Based on Princeton KDD 2024 + ICLR 2026 research.
 
 *If ChatGPT can't find you, you don't exist.*
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/tests-1720-22c55e?style=flat-square" />
 <img src="https://img.shields.io/github/stars/Auriti-Labs/geo-optimizer-skill?style=flat-square&color=0ea5e9" />
 </p>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3><a href="https://github.com/Auriti-Labs/kiro-memory">Kiro Memory</a></h3>
+<h3><a href="https://github.com/Auriti-Labs/geoready-platform">GeoReady Platform</a></h3>
 
-Persistent cross-session memory for AI CLIs. Your AI assistant finally remembers what you did yesterday.
-
-*TypeScript + SQLite + FTS5 + MCP + React UI.*
+SaaS platform for AI search visibility monitoring, audit history, and optimization. Built on top of GEO Optimizer. Live at geoready.dev with billing, domain monitoring, and citation tracking.
 
 <p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/github/stars/Auriti-Labs/kiro-memory?style=flat-square&color=22c55e" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<h3><a href="https://github.com/Auriti-Labs/kore-memory">Kore Memory</a></h3>
+<h3><a href="https://github.com/auriti/agency-pilot">AgencyPilot</a></h3>
 
-Memory layer that thinks like a human — remembers what matters, forgets what doesn't, never phones home.
-
-*Ebbinghaus decay + semantic search. Fully local.*
+AI-powered WordPress agency management SaaS. Monitor all your clients' sites from one dashboard, generate professional AI reports, share them with clients. Live at agencypilot.it with Stripe billing.
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/github/stars/Auriti-Labs/kore-memory?style=flat-square&color=a855f7" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/auriti/diffwatch">DiffWatch</a></h3>
+
+Real-time diff viewer for Claude Code CLI. Intercepts every Edit/Write, shows diffs in a web UI with accept/reject and instant filesystem rollback.
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/github/stars/auriti/diffwatch?style=flat-square&color=0ea5e9" />
 </p>
 
 </td>
@@ -118,7 +129,7 @@ Memory layer that thinks like a human — remembers what matters, forgets what d
 
 <div align="center">
 
-**[auritidesign.it](https://auritidesign.it)** · **[@JuanAuriti](https://x.com/JuanAuriti)** · **[juancamilo.auriti@gmail.com](mailto:juancamilo.auriti@gmail.com)**
+**[geoready.dev](https://geoready.dev)** · **[agencypilot.it](https://agencypilot.it)** · **[@JuanAuriti](https://x.com/JuanAuriti)** · **[juancamilo.auriti@gmail.com](mailto:juancamilo.auriti@gmail.com)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:0ea5e9,100:a855f7" />
 
